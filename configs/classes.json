@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "classes": [
+    {
+      "id": "akiec",
+      "name_ru": "Актинический кератоз",
+      "name_en": "Actinic keratoses",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    },
+    {
+      "id": "bcc",
+      "name_ru": "Базальноклеточная карцинома",
+      "name_en": "Basal cell carcinoma",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    },
+    {
+      "id": "bkl",
+      "name_ru": "Доброкачественный кератоз",
+      "name_en": "Benign keratosis",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    },
+    {
+      "id": "df",
+      "name_ru": "Дерматофиброма",
+      "name_en": "Dermatofibroma",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    },
+    {
+      "id": "nv",
+      "name_ru": "Меланоцитарный невус",
+      "name_en": "Melanocytic nevus",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    },
+    {
+      "id": "vasc",
+      "name_ru": "Сосудистое поражение",
+      "name_en": "Vascular lesion",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    },
+    {
+      "id": "mel",
+      "name_ru": "Меланома",
+      "name_en": "Melanoma",
+      "description": "",
+      "enabled": true,
+      "source": "HAM10000/ISIC 2018 pretrained checkpoint"
+    }
+  ]
+}
